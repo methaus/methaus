@@ -56,6 +56,5 @@ A dor que deveras sente.
   <img align="center" alt="methaus_javascript" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Nv1;
 </div>
 <br>
-💚 Nv1 to Nv3: Basic
 
 

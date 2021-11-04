@@ -23,7 +23,7 @@ namespace Portuguese
           {
                float poeta = fingidor();
                int fingir = poeta.fingir(dor[0]);
-               if (poeta.dor() == fingir
+               if (poeta.dor() == fingir)
                {
                     return true;
                }
@@ -50,7 +50,7 @@ A dor que deveras sente.
   <img align="center" alt="methaus_c" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> Nv1;
   <img align="center" alt="methaus_csharp" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> Nv3;
   <img align="center" alt="methaus_python" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Nv2;
-  <img align="center" alt="methaus_php" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> Nv1;
+  <img align="center" alt="methaus_php" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> Nv2;
   <img align="center" alt="methaus_html" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> Nv3;
   <img align="center" alt="methaus_css" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> Nv3;
   <img align="center" alt="methaus_javascript" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Nv1;

@@ -47,13 +47,13 @@ A dor que deveras sente.
 </div>
 <br>
 <div>
-  <img align="center" alt="methaus_c" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> Nv1;
-  <img align="center" alt="methaus_csharp" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> Nv3;
-  <img align="center" alt="methaus_python" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Nv2;
-  <img align="center" alt="methaus_php" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> Nv2;
-  <img align="center" alt="methaus_html" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> Nv3;
-  <img align="center" alt="methaus_css" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> Nv3;
-  <img align="center" alt="methaus_javascript" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Nv1;
+  <img align="center" alt="methaus_c" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <a href="https://github.com/methaus/C_lrkbv">C_lrkbv</a>;
+  <img align="center" alt="methaus_csharp" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <a href="https://github.com/methaus/CS_TicTacToe">CS_TicTacToe</a>;
+  <img align="center" alt="methaus_python" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 😐;
+  <img align="center" alt="methaus_php" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <a href="https://github.com/methaus/PHP_price_save">PHP_price_save</a>;
+  <img align="center" alt="methaus_html" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> a href="https://github.com/methaus/AvaDomPublic">AvaDomPublic</a>;
+  <img align="center" alt="methaus_css" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <a href="https://github.com/methaus/Portfolio">Portfolio</a>;
+  <img align="center" alt="methaus_javascript" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://github.com/methaus/Contagem-Regressiva">Contagem-Regressiva</a> / <a href="https://github.com/methaus/Pokedex">Pokedex</a>;
 </div>
 <br>
 

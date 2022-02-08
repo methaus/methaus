@@ -46,7 +46,7 @@ A dor que deveras sente.
   </a>
 </div>
 <br>
-<h2>Projects by language:<h2>
+<h2>Projects by language:</h2>
 <div>
   <img align="center" alt="methaus_c" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <a href="https://github.com/methaus/C_lrkbv">C_lrkbv</a>;
   <img align="center" alt="methaus_csharp" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <a href="https://github.com/methaus/CS_TicTacToe">CS_TicTacToe</a>;
